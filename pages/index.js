@@ -16,9 +16,3 @@ const Home = () => {
 };
 
 export default Home;
-ubfdsz
-ad
-
-soajvp
-ornbj
-nsdva
